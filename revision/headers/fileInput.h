@@ -6,6 +6,12 @@
 #include <cassert>
 #include <cstdlib>
 
+/*
+* File Summary:
+* This is the functions file, in this file I will create function(s) that are not part of any class.
+*/
+
+
 /*Prompts User to enter anem of file, function them proceeds to search file in directory then
 displays all words stored in it*/
 void fileData(std::ifstream& fileInput) {
