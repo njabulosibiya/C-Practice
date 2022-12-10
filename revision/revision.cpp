@@ -11,12 +11,9 @@
 */
 
 #include <iostream>
-#include <fstream>
-#include "headers/fileInput.h"
+#include "fileInput.h"
 
 int main() {
-	std::ifstream file1;
-
-	fileData(file1);
+	fileOutput();
 	return 0;
 }
