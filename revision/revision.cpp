@@ -11,7 +11,7 @@
 */
 
 #include <iostream>
-#include "fileInput.h"
+#include "fileStream.h"
 
 int main() {
 	fileOutput();
