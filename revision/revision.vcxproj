@@ -130,7 +130,8 @@
     <ClCompile Include="revision.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="fileInput.h" />
+    <ClInclude Include="fileStream.h" />
+    <ClInclude Include="myFunctions.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="namesList.dat" />

@@ -11,9 +11,11 @@
 */
 
 #include <iostream>
-#include "fileStream.h"
+#include "myFunctions.h"
 
 int main() {
-	fileOutput();
+	const int MAX(5);
+	char name[MAX] {};
+
 	return 0;
 }

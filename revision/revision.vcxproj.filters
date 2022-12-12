@@ -20,7 +20,10 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="fileInput.h">
+    <ClInclude Include="fileStream.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="myFunctions.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
