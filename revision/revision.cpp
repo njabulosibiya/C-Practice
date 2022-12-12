@@ -15,5 +15,6 @@
 
 int main() {
 
+	vectorRevision();
 	return 0;
 }
