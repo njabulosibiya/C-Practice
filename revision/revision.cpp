@@ -14,8 +14,6 @@
 #include "myFunctions.h"
 
 int main() {
-	const int MAX(5);
-	char name[MAX] {};
 
 	return 0;
 }
