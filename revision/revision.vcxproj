@@ -127,9 +127,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ClassRevision.cpp" />
     <ClCompile Include="revision.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="ClassRevision.h" />
     <ClInclude Include="fileStream.h" />
     <ClInclude Include="myFunctions.h" />
   </ItemGroup>
