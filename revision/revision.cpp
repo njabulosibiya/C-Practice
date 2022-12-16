@@ -12,9 +12,10 @@
 
 #include <iostream>
 #include "myFunctions.h"
+#include "fileStream.h"
 
 int main() {
 
-	vectorRevision();
+	addPeople();
 	return 0;
 }

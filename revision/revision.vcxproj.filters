@@ -18,12 +18,18 @@
     <ClCompile Include="revision.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ClassRevision.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="fileStream.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="myFunctions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ClassRevision.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
